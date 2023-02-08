@@ -1,4 +1,4 @@
-Contribuidores: <a href="https://github.com/AdaiasM">Adaias</a> e <a>suerdo</a>
+Contribuidores: <a href="https://github.com/AdaiasM">Adaias</a> e <a href="https://github.com/Suerdo">suerdo</a>
 
 <h1>
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
